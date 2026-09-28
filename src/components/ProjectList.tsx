@@ -1,8 +1,8 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Fuse from 'fuse.js';
-import { Search, SlidersHorizontal, ArrowDownAZ } from 'lucide-react';
+import { Search, SlidersHorizontal, ArrowDownAZ, ChevronLeft, ChevronRight } from 'lucide-react';
 import { ProjectCard, Project } from './ProjectCard';
 import { ProjectModal } from './ProjectModal';
 
@@ -11,13 +11,21 @@ interface ProjectListProps {
   categories: { id: string, name: string }[];
 }
 
+const PAGE_SIZE = 24;
+
 export default function ProjectList({ initialProjects, categories }: ProjectListProps) {
   const [query, setQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [selectedYear, setSelectedYear] = useState<string>('all');
   const [sortBy, setSortBy] = useState<'stars' | 'name'>('stars');
   
+  const [currentPage, setCurrentPage] = useState(1);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+
+  // Reset to page 1 on filter change
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [query, selectedCategory, selectedYear, sortBy]);
 
   const fuse = useMemo(() => new Fuse(initialProjects, {
     keys: ['name', 'summaryVi', 'description_zh'],
@@ -51,6 +59,9 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
 
     return result;
   }, [initialProjects, query, selectedCategory, selectedYear, sortBy, fuse]);
+
+  const totalPages = Math.ceil(filteredProjects.length / PAGE_SIZE);
+  const paginatedProjects = filteredProjects.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
 
   return (
     <div className="w-full">
@@ -92,6 +103,12 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
                 <option value="all">Mọi năm</option>
                 <option value="2025">2025</option>
                 <option value="2024">2024</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+                <option value="2020">2020</option>
+                <option value="2019">2019</option>
+                <option value="2018">2018</option>
               </select>
             </div>
 
@@ -117,15 +134,74 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
 
       {/* Grid */}
       {filteredProjects.length > 0 ? (
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {filteredProjects.map((project) => (
-            <ProjectCard 
-              key={project.id} 
-              project={project} 
-              onClick={() => setSelectedProject(project)} 
-            />
-          ))}
-        </div>
+        <>
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            {paginatedProjects.map((project) => (
+              <ProjectCard 
+                key={project.id} 
+                project={project} 
+                onClick={() => setSelectedProject(project)} 
+              />
+            ))}
+          </div>
+
+          {/* Pagination Controls */}
+          {totalPages > 1 && (
+            <div className="mt-8 flex items-center justify-center gap-2">
+              <button
+                onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                disabled={currentPage === 1}
+                className="inline-flex h-9 w-9 items-center justify-center rounded-md border border-input bg-background text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground disabled:pointer-events-none disabled:opacity-50"
+              >
+                <ChevronLeft className="h-4 w-4" />
+              </button>
+              
+              <div className="flex items-center gap-1">
+                {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+                  let pageNum = currentPage;
+                  if (totalPages <= 5) {
+                    pageNum = i + 1;
+                  } else if (currentPage <= 3) {
+                    pageNum = i + 1;
+                  } else if (currentPage >= totalPages - 2) {
+                    pageNum = totalPages - 4 + i;
+                  } else {
+                    pageNum = currentPage - 2 + i;
+                  }
+                  
+                  if (pageNum > 0 && pageNum <= totalPages) {
+                    return (
+                      <button
+                        key={pageNum}
+                        onClick={() => setCurrentPage(pageNum)}
+                        className={`inline-flex h-9 w-9 items-center justify-center rounded-md border border-input text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground ${
+                          currentPage === pageNum 
+                            ? "bg-primary text-primary-foreground hover:bg-primary/90" 
+                            : "bg-background"
+                        }`}
+                      >
+                        {pageNum}
+                      </button>
+                    );
+                  }
+                  return null;
+                })}
+              </div>
+
+              <button
+                onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                disabled={currentPage === totalPages}
+                className="inline-flex h-9 w-9 items-center justify-center rounded-md border border-input bg-background text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground disabled:pointer-events-none disabled:opacity-50"
+              >
+                <ChevronRight className="h-4 w-4" />
+              </button>
+              
+              <span className="ml-4 text-sm text-muted-foreground">
+                Trang {currentPage} / {totalPages}
+              </span>
+            </div>
+          )}
+        </>
       ) : (
         <div className="flex min-h-[400px] flex-col items-center justify-center rounded-xl border border-dashed text-center">
           <div className="rounded-full bg-slate-100 p-3 mb-4">
@@ -157,3 +233,4 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
     </div>
   );
 }
+

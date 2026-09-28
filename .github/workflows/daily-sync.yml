@@ -30,8 +30,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/README.md > data.md
           
       - name: Run extraction script
-        run: python scripts/extract.py # Script modifies src/data/projects.json
-        # NOTE: modify the python script to read from data.md
+        run: python scripts/extract_all.py # Script modifies src/data/projects.json
 
       - name: Commit and push changes
         run: |
