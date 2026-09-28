@@ -18,13 +18,13 @@ export default function Header() {
         <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
           <nav className="flex items-center">
             <a
-              href="https://github.com/GitHubDaily/GitHubDaily"
+              href="https://tulanh.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="flex items-center space-x-2 text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
             >
               <Globe className="h-4 w-4" />
-              <span>Source Project</span>
+              <span>Tulanh</span>
             </a>
           </nav>
         </div>
