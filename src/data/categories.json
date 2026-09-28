@@ -1,26 +1,50 @@
 [
   {
     "id": "ai-tools",
-    "name": "AI & Công cụ thông minh"
+    "name": "Công cụ AI & Machine Learning"
   },
   {
-    "id": "development",
-    "name": "Phát triển phần mềm"
+    "id": "dev-tools",
+    "name": "Công cụ Lập trình & DevTools"
   },
   {
-    "id": "productivity",
-    "name": "Năng suất & Công việc"
+    "id": "tutorials",
+    "name": "Giáo trình & Hướng dẫn Lập trình"
+  },
+  {
+    "id": "collections",
+    "name": "Tài liệu Tổng hợp & Tuyển tập"
+  },
+  {
+    "id": "utilities",
+    "name": "Tiện ích Thực tế & Ứng dụng"
+  },
+  {
+    "id": "plugins",
+    "name": "Plugin & Tiện ích Mở rộng"
+  },
+  {
+    "id": "media-tools",
+    "name": "Công cụ Đa phương tiện & Media"
   },
   {
     "id": "content-creation",
-    "name": "Sáng tạo nội dung"
+    "name": "Sáng tạo Nội dung & Xuất bản"
   },
   {
-    "id": "data-science",
-    "name": "Dữ liệu & Khoa học"
+    "id": "libraries-frameworks",
+    "name": "Ngôn ngữ Lập trình & Thư viện"
+  },
+  {
+    "id": "online-services",
+    "name": "Dịch vụ Trực tuyến & Web Apps"
+  },
+  {
+    "id": "community-picks",
+    "name": "Dự án Cộng đồng Đề xuất"
   },
   {
     "id": "other",
-    "name": "Khác"
+    "name": "Dự án Khác"
   }
 ]

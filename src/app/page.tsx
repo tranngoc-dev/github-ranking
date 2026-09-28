@@ -33,10 +33,10 @@ export default async function Home() {
     <div className="container mx-auto px-4 py-8 md:py-12">
       <div className="mb-12 flex flex-col items-center text-center space-y-4">
         <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900">
-          Khám phá <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">GitHubDaily</span>
+          Khám phá <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">GitHub Ranking</span>
         </h1>
         <p className="max-w-2xl text-lg text-slate-600">
-          Tổng hợp và Việt hóa các dự án mã nguồn mở chất lượng cao nhất mỗi ngày. Khám phá kho tàng kiến thức công nghệ khổng lồ.
+          Tuyển tập hơn 3.800+ dự án mã nguồn mở chất lượng cao, phân loại và chọn lọc bằng tiếng Việt.
         </p>
         
         <div className="flex flex-wrap justify-center gap-4 mt-6">

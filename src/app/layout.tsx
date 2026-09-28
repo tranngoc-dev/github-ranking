@@ -7,8 +7,8 @@ import { cn } from '@/lib/utils';
 const inter = Inter({ subsets: ['latin', 'vietnamese'] });
 
 export const metadata: Metadata = {
-  title: 'GitHubDaily Vietnamese Discovery Portal',
-  description: 'Khám phá các dự án mã nguồn mở hữu ích từ GitHubDaily, được dịch sang tiếng Việt.',
+  title: 'GitHub Ranking - Khám phá dự án mã nguồn mở',
+  description: 'Khám phá và tra cứu các dự án mã nguồn mở nổi bật trên GitHub được phân loại chi tiết bằng tiếng Việt.',
 };
 
 export default function RootLayout({
