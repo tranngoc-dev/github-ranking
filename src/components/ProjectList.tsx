@@ -101,6 +101,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
                 onChange={(e) => setSelectedYear(e.target.value)}
               >
                 <option value="all">Mọi năm</option>
+                <option value="2026">2026</option>
                 <option value="2025">2025</option>
                 <option value="2024">2024</option>
                 <option value="2023">2023</option>
