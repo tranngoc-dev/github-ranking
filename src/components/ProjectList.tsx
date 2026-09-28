@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo, useEffect } from 'react';
 import Fuse from 'fuse.js';
-import { Search, SlidersHorizontal, ArrowDownAZ, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Search, SlidersHorizontal, ArrowDownAZ, ChevronLeft, ChevronRight, Star } from 'lucide-react';
 import { ProjectCard, Project } from './ProjectCard';
 import { ProjectModal } from './ProjectModal';
 
@@ -17,6 +17,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
   const [query, setQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [selectedYear, setSelectedYear] = useState<string>('all');
+  const [minStars, setMinStars] = useState<number>(0);
   const [sortBy, setSortBy] = useState<'stars' | 'name'>('stars');
   
   const [currentPage, setCurrentPage] = useState(1);
@@ -25,7 +26,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
   // Reset to page 1 on filter change
   useEffect(() => {
     setCurrentPage(1);
-  }, [query, selectedCategory, selectedYear, sortBy]);
+  }, [query, selectedCategory, selectedYear, minStars, sortBy]);
 
   const fuse = useMemo(() => new Fuse(initialProjects, {
     keys: ['name', 'summaryVi', 'description_zh'],
@@ -47,6 +48,9 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
     if (selectedYear !== 'all') {
       result = result.filter(p => p.year.toString() === selectedYear);
     }
+    if (minStars > 0) {
+      result = result.filter(p => p.stars >= minStars);
+    }
 
     // Sort
     result = [...result].sort((a, b) => {
@@ -58,7 +62,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
     });
 
     return result;
-  }, [initialProjects, query, selectedCategory, selectedYear, sortBy, fuse]);
+  }, [initialProjects, query, selectedCategory, selectedYear, minStars, sortBy, fuse]);
 
   const totalPages = Math.ceil(filteredProjects.length / PAGE_SIZE);
   const paginatedProjects = filteredProjects.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
@@ -110,6 +114,26 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
                 <option value="2020">2020</option>
                 <option value="2019">2019</option>
                 <option value="2018">2018</option>
+              </select>
+            </div>
+
+            <div className="flex items-center space-x-2 rounded-md border border-input bg-background px-3 h-10">
+              <Star className="h-4 w-4 text-amber-500 fill-amber-500" />
+              <select 
+                className="bg-transparent text-sm outline-none cursor-pointer"
+                value={minStars}
+                onChange={(e) => {
+                  setMinStars(Number(e.target.value));
+                  setCurrentPage(1);
+                }}
+              >
+                <option value="0">Tối thiểu: 0 ⭐</option>
+                <option value="500">&gt; 500 ⭐</option>
+                <option value="1000">&gt; 1.000 ⭐</option>
+                <option value="5000">&gt; 5.000 ⭐</option>
+                <option value="10000">&gt; 10.000 ⭐</option>
+                <option value="20000">&gt; 20.000 ⭐</option>
+                <option value="50000">&gt; 50.000 ⭐</option>
               </select>
             </div>
 
@@ -217,6 +241,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
               setQuery('');
               setSelectedCategory('all');
               setSelectedYear('all');
+              setMinStars(0);
             }}
             className="mt-6 font-medium text-primary hover:underline"
           >
