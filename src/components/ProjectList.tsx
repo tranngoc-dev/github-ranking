@@ -87,7 +87,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
             <div className="flex items-center space-x-2 rounded-md border border-input bg-background px-3 h-10">
               <SlidersHorizontal className="h-4 w-4 text-muted-foreground" />
               <select 
-                className="bg-transparent text-sm outline-none w-[130px] cursor-pointer"
+                className="bg-transparent text-sm outline-none w-auto min-w-[180px] max-w-[260px] cursor-pointer"
                 value={selectedCategory}
                 onChange={(e) => setSelectedCategory(e.target.value)}
               >

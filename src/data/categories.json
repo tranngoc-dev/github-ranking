@@ -8,40 +8,40 @@
     "name": "Công cụ Lập trình & DevTools"
   },
   {
-    "id": "tutorials",
-    "name": "Giáo trình & Hướng dẫn Lập trình"
+    "id": "utilities",
+    "name": "Tiện ích Thực tế & Ứng dụng"
   },
   {
     "id": "collections",
     "name": "Tài liệu Tổng hợp & Tuyển tập"
   },
   {
-    "id": "utilities",
-    "name": "Tiện ích Thực tế & Ứng dụng"
-  },
-  {
-    "id": "plugins",
-    "name": "Plugin & Tiện ích Mở rộng"
-  },
-  {
-    "id": "media-tools",
-    "name": "Công cụ Đa phương tiện & Media"
-  },
-  {
-    "id": "content-creation",
-    "name": "Sáng tạo Nội dung & Xuất bản"
+    "id": "tutorials",
+    "name": "Giáo trình & Hướng dẫn Lập trình"
   },
   {
     "id": "libraries-frameworks",
     "name": "Ngôn ngữ Lập trình & Thư viện"
   },
   {
-    "id": "online-services",
-    "name": "Dịch vụ Trực tuyến & Web Apps"
-  },
-  {
     "id": "community-picks",
     "name": "Dự án Cộng đồng Đề xuất"
+  },
+  {
+    "id": "media-tools",
+    "name": "Công cụ Đa phương tiện & Media"
+  },
+  {
+    "id": "plugins",
+    "name": "Plugin & Tiện ích Mở rộng"
+  },
+  {
+    "id": "content-creation",
+    "name": "Sáng tạo Nội dung & Xuất bản"
+  },
+  {
+    "id": "online-services",
+    "name": "Dịch vụ Trực tuyến & Web Apps"
   },
   {
     "id": "other",
