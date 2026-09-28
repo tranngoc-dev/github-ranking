@@ -12,6 +12,7 @@ export interface Project {
   stars: number;
   language: string;
   year: number;
+  isTop1000?: boolean;
 }
 
 export function ProjectCard({ project, onClick }: { project: Project, onClick: () => void }) {
@@ -39,8 +40,13 @@ export function ProjectCard({ project, onClick }: { project: Project, onClick: (
           <h3 className="font-semibold leading-none tracking-tight text-lg group-hover:text-primary dark:text-white transition-colors">
             {project.name}
           </h3>
-          <p className="text-sm text-muted-foreground line-clamp-1">
+          <p className="text-sm text-muted-foreground line-clamp-1 flex items-center">
             by {project.author} • {project.year}
+            {project.isTop1000 && (
+              <span className="inline-flex items-center rounded bg-amber-500/10 px-1.5 py-0.5 text-[10px] font-semibold text-amber-600 dark:text-amber-400 border border-amber-500/20 ml-2">
+                Top 1000
+              </span>
+            )}
           </p>
         </div>
         <div className="flex items-center space-x-1 rounded-md bg-secondary px-2.5 py-1 text-xs font-semibold text-secondary-foreground">

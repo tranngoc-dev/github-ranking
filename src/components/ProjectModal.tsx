@@ -38,6 +38,13 @@ export function ProjectModal({ project, onClose, categories }: ProjectModalProps
           <h2 className="text-2xl font-bold text-slate-900 dark:text-white flex items-center">
             {project.name}
           </h2>
+          {project.isTop1000 && (
+            <div className="mt-3">
+              <span className="inline-flex items-center text-xs font-semibold text-amber-600 bg-amber-50 dark:bg-amber-950/40 px-2 py-1 rounded-md border border-amber-200 dark:border-amber-800">
+                ⭐ Thuộc Top 1000 Dự Án Nhiều Sao Nhất Thế Giới
+              </span>
+            </div>
+          )}
           <div className="mt-4 flex flex-wrap gap-3 text-sm text-slate-600">
             <span className="flex items-center"><User className="w-4 h-4 mr-1" /> {project.author}</span>
             <span className="flex items-center text-yellow-600"><Star className="w-4 h-4 mr-1" /> {(project.stars / 1000).toFixed(1)}k Stars</span>

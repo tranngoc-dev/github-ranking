@@ -42,7 +42,9 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
     }
 
     // Filter
-    if (selectedCategory !== 'all') {
+    if (selectedCategory === 'top-1000') {
+      result = result.filter(p => p.isTop1000 === true || p.categoryVi === 'top-1000');
+    } else if (selectedCategory !== 'all') {
       result = result.filter(p => p.categoryVi === selectedCategory);
     }
     if (selectedYear !== 'all') {
