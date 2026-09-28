@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ai-tools",
+    "name": "AI & Công cụ thông minh"
+  },
+  {
+    "id": "development",
+    "name": "Phát triển phần mềm"
+  },
+  {
+    "id": "productivity",
+    "name": "Năng suất & Công việc"
+  },
+  {
+    "id": "content-creation",
+    "name": "Sáng tạo nội dung"
+  },
+  {
+    "id": "data-science",
+    "name": "Dữ liệu & Khoa học"
+  },
+  {
+    "id": "other",
+    "name": "Khác"
+  }
+]
