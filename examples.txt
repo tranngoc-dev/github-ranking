@@ -1,0 +1,767 @@
+awesome-n8n-templates:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Tập hợp hơn 500 mẫu tự động hóa n8n, bao gồm các tình huống kinh doanh phổ biến như xử lý email, mạng xã hội và xử lý dữ liệu. Nó bao gồm các giải pháp tích hợp cho các nền tảng như Gmail, Telegram...
+
+awesome-healthcare:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Tập hợp các tài nguyên dự án nguồn mở chất lượng cao trong lĩnh vực y tế. Bao gồm các hệ thống hồ sơ y tế điện tử, xử lý hình ảnh y tế, y học từ xa và học máy, mỗi dự án đều được sàng lọc cẩn thận.
+
+awesome-blockchain:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收集所有区块链(BlockChain) 技术开发相关资料，包括 Fabric 和 Ethereum 开发资料 | ![GitHub stars](https://img.shields.io/github/stars/chaozh/awesome-blockchain-cn.svg) | [![](https://raw.githubusercontent.com///master/as...
+
+awesome-chatgpt-prompts-zh:
+  Before: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+  After: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+awesome-cursorrules:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: Danh sách thu thập và nâng cao các tệp Con trỏ, cải thiện hiệu quả và độ chính xác của Con trỏ thông qua các tệp .cursorrules, bao gồm các ngôn ngữ lập trình và khung kỹ thuật khác nhau, đồng thời ...
+
+awesome-ai-research-writing:
+  Before: Elevate your AI research writing, no more tedious polishing ✨ 
+  After: Elevate your AI research writing, no more tedious polishing ✨
+
+awesome-hacker-search-engines:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: Một bộ sưu tập các công cụ tìm kiếm liên quan đến hacker/bảo mật trên GitHub, bao gồm hơn 20 danh mục như truy vấn thông tin máy chủ và truy vấn lỗ hổng, tóm tắt hơn 500 công cụ tìm kiếm chuyên ngh...
+
+Awesome ChatGPT Prompts:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 里面整理了一系列与 ChatGPT 互动的玩法与技巧。你可以通过这些玩法，让 ChatGPT 变成 Linux 终端、文本翻译与修正、技术面试官、故事家、脱口秀演员、写作指导顾问、心理咨询家等等。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964...
+
+awesome-llm-pretraining:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập các tài nguyên học tập trước khi đào tạo theo mô hình lớn, tích hợp các báo cáo kỹ thuật trước khi đào tạo, chiến lược đào tạo, bộ dữ liệu nguồn mở và phương pháp dữ liệu, cung cấp l...
+
+Awesome OCR:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 列举了一系列 OCR 相关的开发工具、开源项目、技术实现方案、数据集等诸多资源。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Kujgd1gm6)
+
+build-your-own-x:
+  Before: Master programming by recreating your favorite technologies from scratch.
+  After: Master programming by recreating your favorite technologies from scratch.
+
+Awesome-Ollama-Server:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: Giám sát và phát hiện các dịch vụ Ollama. Nó hỗ trợ các dịch vụ phát hiện hàng loạt, hiển thị trạng thái và kết quả theo thời gian thực, chức năng quét FOFA tự động và cung cấp giao diện trực quan ...
+
+awesome-wayland:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách tài nguyên dành cho hệ sinh thái gốc của Wayland, sắp xếp một cách có hệ thống các thành phần và công cụ trên máy tính để bàn, bao gồm hơn 70 ứng dụng như bộ tổng hợp cửa sổ và công cụ ch...
+
+awesome-flutter:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: 一份收集整理了一系列 Flutter 学习资料，含有视频教程、博客文章、各种组件等等 | ![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)]...
+
+awesome-kotlin:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份精选收集整理 Kotlin 相关资料的集合 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/IooXx9vMk)
+
+awesome-public-real-time-datasets:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: Danh sách các nguồn dữ liệu trực tiếp được tuyển chọn trên GitHub. Bao gồm dữ liệu thời gian thực trong nhiều lĩnh vực như tài chính, giao thông, thời tiết, v.v., nó phân biệt rõ ràng giữa loại miễ...
+
+Awesome Portfolio Websites:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: GitHub 上的一个开源网站：Awesome Portfolio Websites，致力于帮助研究人员、开发者、分析师建立一个可用于展示多维度工作信息的网站。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/LjeJLxVQn)
+
+awesome-shell:
+  Before: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+  After: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+awesome-nano-banana:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: Bộ sưu tập các trường hợp và lời nhắc tuyệt vời trên GitHub, bao gồm 100 trường hợp thế hệ Nano Banana bao gồm các nhân vật phiên bản 3D Q, áp phích cổ điển và các phong cách khác. Mỗi trường hợp đ...
+
+awesome-uses:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Dự án tham khảo thu thập cấu hình môi trường làm việc thực tế của các nhà phát triển trên khắp thế giới, bao gồm nhiều lĩnh vực phát triển và được phân loại theo ngôn ngữ lập trình và quốc gia. Nó ...
+
+awesome-forensics:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập các công cụ và tài nguyên điều tra kỹ thuật số được sắp xếp cẩn thận, được phân loại theo các tình huống ứng dụng khác nhau, bao gồm toàn bộ quy trình điều tra từ điều tra bộ nhớ đến...
+
+Awesome assistants:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份精心收集整理的优秀 AI 助手列表。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/NvHARfYTA)
+
+awesome-machine-learning:
+  Before: A curated list of awesome Machine Learning frameworks, libraries and software.
+  After: A curated list of awesome Machine Learning frameworks, libraries and software.
+
+awesomefluttertips:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 里面收集了一些 Flutter 相关的开发技巧 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Jc5Q2nufn)
+
+《英语论文写作指南》:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 由阳志平团队整理发布。里面包含科技论文制图、数学公式排版、文献分析工具介绍、论文发表技巧、写作工具等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/LxY0T5643)
+
+awesome-deepseek-integration:
+  Before: Integrate the DeepSeek API into popular software
+  After: Integrate the DeepSeek API into popular software
+
+awesome-resume-for-chinese:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集了一些适合中文的简历模板 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HwMllvEjG)
+
+awesome-cpp:
+  Before: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+  After: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+awesome-interview-questions:
+  Before: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+  After: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+
+awesome-devops:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập tài nguyên DevOps được sắp xếp cẩn thận, bao gồm các lĩnh vực chính như nền tảng đám mây, điều phối vùng chứa, công cụ tự động hóa, hệ thống giám sát, v.v., cung cấp tài liệu tham kh...
+
+Awesome-GPT-Agents:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份精心收集的专注于网络安全领域的 GPT 代理列表，涵盖了网络安全助手、网络安全导师、黑客新闻、数据分析等多个方面，旨在帮助网络安全学习者和从业者提高效率。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/O4xTmd5BC)
+
+awesome-llms-fine-tuning:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Tài nguyên học tập tinh chỉnh mô hình ngôn ngữ lớn tích hợp nhiều tài nguyên khác nhau như các công cụ thực hành nguồn mở và tài liệu học thuật, đồng thời được phân loại và sắp xếp theo các danh mụ...
+
+awesome-mcp-servers:
+  Before: A collection of MCP servers.
+  After: A collection of MCP servers.
+
+awesome-low-level-design:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份关于学习低级设计（LLD）的资源集合，涵盖面向对象编程概念、设计模式、UML 图、面试题目和相关书籍推荐等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OCsqCaQ1O)
+
+awesome-for-beginners:
+  Before: A list of awesome beginners-friendly projects.
+  After: A list of awesome beginners-friendly projects.
+
+awesome-python:
+  Before: The definitive list that answers "I want to do X in Python, which tool should I use?"
+  After: The definitive list that answers "I want to do X in Python, which tool should I use?"
+
+Awesome-Large-Multimodal-Reasoning-Models:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Với cái nhìn toàn cảnh về sự phát triển của các mô hình lý luận đa phương thức, kết hợp một cách có hệ thống quy trình bốn giai đoạn từ lý luận dựa trên nhận thức đến lý luận tự nhiên, thu thập toà...
+
+awesome-cloudflare:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách các tài nguyên khác nhau dựa trên Cloudflare được thu thập cẩn thận, bao gồm các công cụ nguồn mở, hướng dẫn nghiên cứu, blog, v.v., được thiết kế để giúp các nhà phát triển độc lập giảm ...
+
+awesome-wepy:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份整理了微信小程序组件化开发框架 wepy 开发资源汇总 | ![GitHub stars](https://img.shields.io/github/stars/aben1188/awesome-wepy.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo...
+
+Awesome-Chinese-LLM:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập được thu thập và sắp xếp cẩn thận các tài nguyên liên quan đến mô hình ngôn ngữ lớn (LLM) của Trung Quốc, bao gồm các mô hình tiếng Trung được tinh chỉnh nguồn mở, các mô hình cơ bản...
+
+《深度学习 500 问》:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 国内开发者整理的一份 AI 学习资源，内容以问答形式，对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助有需要的读者。全书分为 18 个章节，50 余万字。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389...
+
+awesome-rust:
+  Before: A curated list of Rust code and resources.
+  After: A curated list of Rust code and resources.
+
+awesome-php-security:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理了 PHP 安全相关资源的列表 | ![GitHub stars](https://img.shields.io/github/stars/guardrailsio/awesome-php-security.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://w...
+
+awesome-web-scraping:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập nguồn mở tổ chức một cách có hệ thống các tài nguyên xử lý dữ liệu và quét web. Nó bao gồm các thư viện liên quan đến trình thu thập thông tin cho các ngôn ngữ chính thống như Python...
+
+awesome-reinforcement-learning-zh:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份强化学习从入门到放弃的资料汇总 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HctcwvT2n)
+
+awesome-styleguides:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理了 UI 设计指南相关的资料列表 | ![GitHub stars](https://img.shields.io/github/stars/streamich/awesome-styleguides.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weib...
+
+Awesome-Hacking:
+  Before: A collection of various awesome lists for hackers, pentesters and security researchers
+  After: A collection of various awesome lists for hackers, pentesters and security researchers
+
+awesome-remote-job:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份整理了关于远程工作职位和资源的列表，涵盖文章、视频、书籍、招聘网站、面试资料、问答社区、远程工作社区、会议工具以及法律和财务建议等内容，为寻找远程工作提供帮助和有用信息。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OAtSzh8YL)
+
+awesome-nodejs:
+  Before: :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
+  After: :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
+
+awesome-claude-code:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Bộ sưu tập hướng dẫn sử dụng về Claude Code, bao gồm các công cụ, lệnh, tệp cấu hình và các phương pháp hay nhất để nâng cao quy trình làm việc của nó, giúp người dùng sử dụng trợ lý lập trình AI n...
+
+awesome-low-latency:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Dự án biên soạn kiến ​​thức phát triển có độ trễ thấp tóm tắt một cách có hệ thống các mẫu thiết kế cốt lõi như đo độ trễ và tránh di chuyển dữ liệu, bao gồm các chủ đề cấp cao như mạng bỏ qua nhân...
+
+awesome-creative-coding:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份精心整理的创意编码资源列表，主要面向初中级学者，内容含有书籍、课程、工具和学习资源等等 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/I1nv0BnkQ)
+
+awesome-react-native:
+  Before: Awesome React Native components, news, tools, and learning material!
+  After: Awesome React Native components, news, tools, and learning material!
+
+awesome-agents:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Danh sách điều hướng các tài nguyên phát triển Tác nhân AI, bao gồm nhiều công cụ nguồn mở khác nhau cần thiết để xây dựng Tác nhân AI, được phân loại theo các danh mục như khung, thử nghiệm và đán...
+
+awesome-mac:
+  Before:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+  After:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+awesome-vibe-coding:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Danh sách tài nguyên điều hướng tổng hợp gồm các công cụ lập trình AI, bao gồm nhiều công cụ lập trình được hỗ trợ bởi AI, từ công cụ tạo nguyên mẫu nhanh phía trình duyệt đến các plug-in IDE chuyê...
+
+agentic-awesome-skills:
+  Before: AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+  After: AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, cat...
+
+awesome-web-security:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集汇总了 Web 安全相关的一些资源 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/IcVYKrm4O)
+
+awesome-sysadmin:
+  Before: A curated list of amazingly awesome open-source sysadmin resources.
+  After: A curated list of amazingly awesome open-source sysadmin resources.
+
+awesome-selfhosted:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập các công cụ thiết thực có thể được triển khai trên máy chủ cá nhân, bao gồm nhiều danh mục ứng dụng như tự động hóa, sao lưu, nền tảng viết blog, quản lý tài liệu, v.v. Bộ sưu tập nà...
+
+skills:
+  Before: Public repository for Agent Skills
+  After: Public repository for Agent Skills
+
+awesome-resume:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 由 ResumeJob 整理出来的一份程序员简历常用例句 | ![GitHub stars](https://img.shields.io/github/stars/resumejob/awesome-resume.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://wei...
+
+awesome-social-media-downloader:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份精心收集的开源免费视频下载工具列表，包括能够免费下载油管、B 站、抖音、视频号等平台视频的工具，以及一些短视频去水印和视频压缩等辅助工具。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OnwbPlaV6)
+
+awesome-actions:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 收集并整理了 GitHub Actions 相关的资料与教程，帮助开发者更好的使用 GitHub Actions 来优化当前工作流，提升开发效率 | ![GitHub stars](https://img.shields.io/github/stars/sdras/awesome-actions.svg) | [![](https://raw.githubusercontent.com///...
+
+awesome-nano-banana-pro-prompts:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Các từ gợi ý của Nano Banana Pro. Nó tổ chức hơn 500 trường hợp được chọn theo các kịch bản ứng dụng, chẳng hạn như thiết kế áp phích. Mỗi trường hợp đều được trang bị các hiệu ứng hình ảnh được tạ...
+
+freeCodeCamp:
+  Before: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+  After: FreeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+Awesome-Dify-Workflow:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份整理了一系列好用的 Dify 工作流集合，包括中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等，所有工作流基本可免费使用。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OwnkKzAcX)
+
+Awesome Indie Hacker Tools:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收录独立开发/出海开发相关技术栈及工具的 GitHub 仓库，涵盖原型设计、UI 框架/组件库、图标/字体库、前端/后端开发框架、支付、国际化、产品发布推广等实用内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OAkrFdDIk)
+
+awesome-bash:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập các tài nguyên nguồn mở để phát triển tập lệnh Bash, tập hợp nhiều tài nguyên và công cụ được chọn khác nhau từ cấp cơ bản đến nâng cao. Nó được tổ chức thành hơn mười loại như tài l...
+
+Awesome-Visual-Reinforcement-Learning:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Trong lĩnh vực học tập tăng cường trực quan nhằm thu thập và sắp xếp toàn diện các tài nguyên học tập có liên quan. Được phân loại theo các khía cạnh như mô hình ngôn ngữ lớn đa phương thức và tạo ...
+
+awesome-f2e-libs:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收集整理了前端常用的框架、工具和插件等资料集合 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HiLEqp5cR)
+
+php-awesome:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: PHP 相关资源整理，每周更新 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hh4LU0bFZ)
+
+awesome-LangGraph:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập tài nguyên LangGraph được sắp xếp cẩn thận, bao gồm các phần giới thiệu cơ bản, mẫu bắt đầu, ứng dụng mẫu và công cụ thực hành, cũng như các dự án nổi bật trong lĩnh vực AI Agent, tr...
+
+Awesome-pytorch-list:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份整理了在 GitHub 上与 PyTorch 相关的开源库列表，含有学习教程、示例等 | ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_...
+
+awesome-ios:
+  Before: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+  After: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+
+awesome-design-patterns:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理软件和架构相关的设计模式资料 | ![GitHub stars](https://img.shields.io/github/stars/DovAmir/awesome-design-patterns.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weib...
+
+Awesome-Design-Tools:
+  Before: The best design tools and plugins for everything 👉
+  After: The best design tools and plugins for everything 👉
+
+Awesome-Profile-README-templates:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: GitHub 上一份精心收集整理的个人页 README 模板列表 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/JiMEhAcaK)
+
+awesome-quickapp:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收集最新最全的快应用开发资源、案例及动态，为快应用开发者提供第一手学习资料 | ![GitHub stars](https://img.shields.io/github/stars/quickappdev/awesome-quickapp.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.pn...
+
+awesome-ceo:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Tài nguyên được chọn lọc được tạo ra cho những người sáng lập công ty khởi nghiệp và các nhà lãnh đạo doanh nghiệp có tốc độ tăng trưởng cao, bao gồm tám lĩnh vực cốt lõi như tài chính, quản lý và ...
+
+awesome-LLM-resourses:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập toàn diện các tài nguyên mô hình ngôn ngữ lớn (LLM), bao gồm dữ liệu, tinh chỉnh, lý luận, cơ sở kiến ​​thức, tác nhân, sách, các khóa học liên quan, hướng dẫn học tập, bài viết, v.v...
+
+Awesome-Interview:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理了各大技术领域面试资料列表，含有前端、后端、客户端等等 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/I1PMvac0b)
+
+awesome-prompts:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một tập hợp các từ nhắc nhở hiệu quả được thu thập cho dự án nguồn mở Sử dụng trình duyệt. Nó bao gồm thương mại điện tử, tạo nội dung, trích xuất dữ liệu và các lĩnh vực khác cũng như nghiên cứu h...
+
+Awesome-local-LLM:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một tập hợp các tài nguyên triển khai mô hình lớn cục bộ, bao gồm nền tảng suy luận, công cụ, giao diện và hơn chục loại công cụ, được đánh dấu bằng số và mô tả GitHub Stars, đồng thời cung cấp các...
+
+awesome-android-ui:
+  Before: A curated list of awesome Android UI/UX libraries
+  After: A curated list of awesome Android UI/UX libraries
+
+awesome-docker:
+  Before: :whale: A curated list of Docker resources and projects
+  After: :whale: A curated list of Docker resources and projects
+
+Awesome-Agent-Papers:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Bộ sưu tập dự án GitHub tổ chức một cách có hệ thống các tài liệu nghiên cứu trong lĩnh vực AI Agent LLM. Nó chọn hơn 200 bài viết chất lượng cao, bao gồm xây dựng AI Agent, cơ chế cộng tác, phát t...
+
+「剑指前端 Offer」:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一个开源的前端面试库，由国内多位互联网大厂工程师及前端独立开发者维护。开发者们可借助本书，快速了解面试的高频技术问题与解答，抑或通过书中题目和答案提纲，自主深入学习，查漏补缺。项目来自水友自荐。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/57229643...
+
+awesome-project-ideas:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 精心整理了一批机器学习、NLP、计算机视觉及推荐系统相关的开发资源，并提供项目实现思路、产品方向、数据集等资料，就差具体代码实现了 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/JjHcRAaax)
+
+awesome-nano-banana-pro:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: Bộ sưu tập các trường hợp chất lượng cao về mô hình tạo hình ảnh Nano Banana Pro, bao gồm hơn 45 trường hợp thế hệ bao gồm trò chơi, hoạt hình, siêu thực tế và các lĩnh vực khác, thể hiện khả năng ...
+
+awesome-hacker-news:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Dự án thu thập và sắp xếp các ứng dụng và tài nguyên của bên thứ ba về Hacker News, bao gồm hàng trăm ứng dụng và công cụ liên quan, được sắp xếp theo danh mục nhằm giúp người dùng có được các tùy ...
+
+awesome-claude-skills:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Chỉ số kỹ năng được chọn dùng để mở rộng khả năng của Claude, bao gồm hơn mười lĩnh vực như xử lý tài liệu, phát triển mã và nghiên cứu khoa học. Nó tích hợp các công cụ thực tế và trỏ đến các cấu ...
+
+awesome-claude:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập tài nguyên của Claude tổ chức một cách có hệ thống các tài liệu chính thức, công cụ cộng đồng, tiện ích mở rộng và tài nguyên học tập. Nó được tổ chức thành sáu danh mục bao gồm các ...
+
+《红队知识仓库》:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 里面收录了一系列网络安全相关的技术文档、开发工具、公开知识库等内容，覆盖漏洞研究、信息收集、内网渗透等领域。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Ly8CqBp48)
+
+awesome-ethical-hacking-resources:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: Một danh sách có hệ thống các tài nguyên học tập kiểm tra thâm nhập và bảo mật mạng. Bao gồm một lộ trình học tập hoàn chỉnh từ giới thiệu cơ bản đến các kỹ thuật nâng cao, nó tập hợp nội dung chất...
+
+awesome:
+  Before: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+  After: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+
+awesome-generative-ai:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Danh sách các tài nguyên AI tổng hợp trên GitHub, bao gồm văn bản, mã, tác nhân, tạo hình ảnh, video và âm thanh cũng như các công cụ AI liên quan khác. Nó cũng thu thập các bài viết về AI đáng đọc...
+
+awesome-cursor-rules-mdc:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Công cụ tạo tệp quy tắc MDC dành cho Con trỏ có thể tự động thu thập các phương pháp hay nhất từ ​​mỗi thư viện để tạo nội dung có cấu trúc. Nó sử dụng tìm kiếm ngữ nghĩa Exa và công nghệ LLM để hỗ...
+
+awesome-digital-human-live2d:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Nhằm mục đích tạo ra một con người kỹ thuật số ấm áp hỗ trợ triển khai nhanh chóng Docker, truy cập dịch vụ Dify, ASR, LLM, TTS, mở rộng mô-đun Agent, mở rộng và kiểm soát mô hình ký tự Live2d cũng...
+
+Awesome Database Learning:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: 一份精心整理的数据库学习合集，涵盖课程、书籍、讲座、论文等数据库相关学习资料，帮助了解数据库内部工作原理。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/NCg9h4lyk)
+
+awesome-python-applications:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 收集了许多基于 Python 开发的开源软件 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hjya9dtlT)
+
+Awesome-Nano-Banana-images:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: Một bộ sưu tập được thu thập cẩn thận về các trường hợp tạo Nano Banana, bao gồm các tình huống ứng dụng phổ biến như tạo hình, hoạt hình cho người thật, hợp nhất nhiều hình ảnh, v.v. Mỗi trường hợ...
+
+awesome-mcp-list:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: Danh sách tài nguyên máy chủ MCP được chọn lọc, tập hợp nhiều máy chủ chất lượng cao khác nhau như điều khiển trình duyệt, nền tảng đám mây, liên lạc và trò chuyện, v.v., được phân loại rõ ràng the...
+
+awesome-instruction-editing:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách các tài nguyên học thuật để chỉnh sửa hình ảnh có hướng dẫn, tích hợp các tài liệu nghiên cứu mới nhất, triển khai mã và bộ dữ liệu, cung cấp mô tả về các chỉ số đánh giá và phân tích các...
+
+awesome-podcasts:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集各大编程语言相关的播客列表 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hl4r76YmU)
+
+《绝妙的个人生产力》:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一个开源的生产力工具清单，Awesome Productivity 中文版。收录了与生产力相关的各类书籍、网站、工具等内容，包含日常笔记、知识图谱、文件管理、任务管理、任务自动化、密码管理等类别。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964...
+
+awesome-design-md:
+  Before: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+  After: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+awesome-api-security:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách tài nguyên dành cho người mới bắt đầu thử nghiệm bảo mật API, thu thập một cách có hệ thống các công cụ và sách trong lĩnh vực này để cung cấp lộ trình học tập và thực hành rõ ràng.
+
+awesome-reverse-engineering:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集了诸多与逆向工程相关的资源，覆盖了 Windows / Linux / macOS / Android / iOS / IoT 等操作系统 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/IkJwyiPMn)
+
+awesome-math:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách tài nguyên học toán trên GitHub, nơi tập hợp các tài nguyên chất lượng cao trong hơn 30 lĩnh vực như đại số và hình học, bao gồm các video hướng dẫn, sách giáo khoa điện tử, công cụ thực ...
+
+public-apis:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 收集了大量公开的 API，让开发者可以快速集成到自己的产品中 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HnSfLv8UL)
+
+awesome-selfhost-docker:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách các tài nguyên dự án Docker tự lưu trữ mã nguồn mở được tuyển chọn, bao gồm nhiều lĩnh vực như công cụ năng suất, môi trường phát triển, máy chủ phương tiện, v.v. Tất cả các dự án có thể ...
+
+awesome-production-machine-learning:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 比较实用的机器学习项目汇总清单，包含了一系列优秀的机器学习开源库，可帮你完成项目的监控、部署、安全防护 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Jcfh9nOgK)
+
+awesome-landing-page:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份精心收集的落地页模板集合，包含多种高颜值且实用的开源落地页模板，使用不同前端技术框架构建，还收集了相关制作教程和设计资源。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OnevUmEXS)
+
+Awesome_Math_Books:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: Bộ sưu tập sách kinh điển về nhiều lĩnh vực toán học, bao gồm lý thuyết xác suất, đại số, giải tích, v.v., có liên kết tải xuống hoặc đọc trực tuyến, cũng như sách về các bài toán phổ thông và kiến...
+
+awesome-generative-ai-guide:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Hướng dẫn học tập AI tổng quát toàn diện, bao gồm các xu hướng nghiên cứu mới nhất, tài liệu phỏng vấn, khóa học miễn phí, ghi chú học tập và nội dung phong phú khác để giúp người học nắm vững một ...
+
+awesome-claude-prompts:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Bộ sưu tập tài nguyên từ gợi ý của Claude trên GitHub, bao gồm nhiều tình huống ứng dụng khác nhau như giải thích mã, nhập vai, sáng tạo trong quảng cáo, v.v., cung cấp các từ và ví dụ gợi ý chất l...
+
+awesome-llm-books:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách sách LLM được chọn lọc dành cho kỹ sư, bao gồm sách kỹ thuật thực tế và chất lượng cao thông qua quy trình sàng lọc sáu bước nghiêm ngặt, bao gồm các hệ thống kiến ​​thức toàn diện như xâ...
+
+awesome-roadmaps:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 你们要的所有编程技能图谱都在这里了 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HqdALlPLn)
+
+awesome-openclaw-skills:
+  Before: The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+  After: The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+
+awesome-typescript:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理了学习 TypeScript 资料集合 | ![GitHub stars](https://img.shields.io/github/stars/semlinker/awesome-typescript.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://we...
+
+awesome-spider:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: 一份收集整理了各种爬虫案例 Demo 资料，方便学习如何爬虫 | ![GitHub stars](https://img.shields.io/github/stars/facert/awesome-spider.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weib...
+
+Awesome-SpeechLM-Survey:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: Thư viện tài nguyên GitHub tổ chức một cách có hệ thống các tài nguyên học thuật trong lĩnh vực mô hình ngôn ngữ lời nói, bao gồm toàn bộ tài nguyên học thuật như khung phân loại, danh sách mô hình...
+
+awesome-distributed-systems:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 非常棒的分布式系统资源列表 | ![GitHub stars](https://img.shields.io/github/stars/rShetty/awesome-distributed-systems.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.c...
+
+Awesome-PyTorch-Chinese:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: 一份 PyTorch 学习资源整理汇总，含有学习教程、手册、视频教程和实战项目等资料 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hu6M8ipk2)
+
+awesome-cicd-security:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Danh sách các tài nguyên bảo mật CI/CD, bao gồm sách lý thuyết, trường hợp thực hành, hướng dẫn chính thức và các công cụ nguồn mở. Nó cũng biên soạn các bài viết bảo mật chuyên biệt cho các nền tả...
+
+Time series resources:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 时间序列相关的学习资源整理。覆盖多个常用开发者工具、可视化开源库、技术论文、开源教程等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/LeXAOC2td)
+
+《凤凰架构：构建可靠的大型分布式系统》:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一本开源的后端技术书籍，以 “如何构建一套可靠的分布式大型软件系统” 为叙事主线的开源文档，也是可帮助开发人员整理现代软件架构知识点的技能地图。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/KopWYkPGe)
+
+Awesome-RAG-Vision:
+  Before: Một ứng dụng hỗ trợ xử lý hình ảnh và video tiên tiến, tự động tạo nội dung với chất lượng cao.
+  After: Một tập hợp các tài nguyên trong lĩnh vực RAG trực quan, thu thập và sắp xếp các tài liệu hướng dẫn và tài liệu hướng dẫn tiên tiến, bao gồm hiểu biết trực quan, hiểu biết về video, đa phương thức ...
+
+jules-awesome-list:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một trợ lý lập trình AI có thể làm việc độc lập. Dựa trên mô hình Gemini 2.5 Pro, nó hoàn thành toàn bộ quá trình phát triển trong máy ảo Google Cloud. Từ việc hiểu mã đến lập kế hoạch và gửi mã, t...
+
+awesome-design-cn:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收集整理设计师资源大全，含有 icon、Logo 设计、PhotoShop 插件、交互设计工具、流程图等等 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HjsRnjPWq)
+
+awesome-english-ebooks:
+  Before: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+  After: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+awesome-agent-skills:
+  Before: A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+  After: A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+
+awesome-cpp-cn:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份中文版 C++ 资源大全，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/JiTIgaPOP)
+
+Awesome-ICCV2021-Low-Level-Vision:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 整理了 2021 年 ICCV 中，图像生成与底层视觉相关的论文和代码，包括图像生成，图像编辑，图像风格迁移，图像翻译，图像修复，图像超分及其他底层视觉任务等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/KElt0dXLK)
+
+awesome-java:
+  Before: A curated list of awesome frameworks, libraries and software for the Java programming language.
+  After: A curated list of awesome frameworks, libraries and software for the Java programming language.
+
+Awesome-GPTs:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份精心收集的有趣和创新 GPTs 列表，涵盖学术、写作、教育、生产力、编程、生活方式、娱乐等领域。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/O4Ha1rXdK)
+
+awesome-gpt4o-images:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Bộ sưu tập các hộp ảnh chất lượng cao trên GitHub, thu thập hơn 43 bức ảnh do GPT-4o tạo ra, bao gồm các ký tự phiên bản Q, khung ảnh ba chiều và các loại khác. Mỗi trường hợp đều có kèm theo lời n...
+
+awesomeMLSys:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份精选的机器学习系统入门资料集合，包括论文、视频和代码库，涵盖注意力机制、性能优化、量化、长上下文长度和稀疏性等主题。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/OsOY94wud)
+
+《AI 绘画资料合集》:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份开源的技术资源：《AI 绘画资料合集》，作者汇总了国内外可使用的 AI 绘画平台、技术教程、参数教程、部署教程、业界新闻等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Md8XyyKiG)
+
+Awesome-MCP-ZH:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Bộ sưu tập tài nguyên MCP được biên soạn đặc biệt cho người dùng Trung Quốc, bao gồm các phần giới thiệu cơ bản, công cụ máy khách, danh sách máy chủ và tài nguyên học tập, đồng thời cung cấp hướng...
+
+devdocs:
+  Before: API Documentation Browser
+  After: API Documentation Browser
+
+Font-Awesome:
+  Before: The iconic SVG, font, and CSS toolkit
+  After: The iconic SVG, font, and CSS toolkit
+
+Awesome-Linux-Software:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 收集整理了一批优质的 Linux 软件，包含电子书工具、命令行工具、文件管理器等多个分类 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HlAQkh97U)
+
+Awesome-Video-Diffusion:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Thư viện tài nguyên mô hình phổ biến video cực kỳ toàn diện, bao gồm các tài liệu mới nhất và mã mô hình nguồn mở chính thống trong các lĩnh vực tạo video, chỉnh sửa, khôi phục, hiểu, 3D, v.v., tổ ...
+
+awesome-arxiv:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập các công cụ và tài nguyên liên quan đến arXiv được thu thập cẩn thận, bao gồm hơn 20 công cụ mạnh mẽ, bao gồm khám phá tìm kiếm, quản lý giấy, nâng cao khả năng đọc, v.v. Nó cũng thu...
+
+awesome-tuis:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Bộ sưu tập các công cụ đầu cuối dành cho nhà phát triển, bao gồm hơn chục danh mục như giám sát hệ thống, công cụ phát triển và quản lý tệp. Mỗi công cụ đều có mô tả ngắn gọn và liên kết tương ứng ...
+
+awesome-reactnative-ui:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集了不少有用的 React Native UI 组件，每周一更 | ![GitHub stars](https://img.shields.io/github/stars/madhavanmalolan/awesome-reactnative-ui.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo...
+
+awesome-vue:
+  Before: 🎉 A curated list of awesome things related to Vue.js
+  After: 🎉 A curated list of awesome things related to Vue.js
+
+awesome-java-cn:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份 Java 资源大全中文版，内容包括构建工具、数据库、框架、模板、安全等等 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hgqjrv3qk)
+
+awesome-javascript:
+  Before: 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+  After: 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+Awesome Flutter Desktop:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 收录了一系列基于 Flutter 开发的组件包与开源项目，其中包括密码管理器、音乐播放器、翻译词典、漫画阅读器等应用。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/KxcnEzg5O)
+
+awesome-vscode:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 收集了许多实用的 VSCode 相关资源 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Hk8uTrBqG)
+
+awesome-react:
+  Before: A collection of awesome things regarding React ecosystem
+  After: A collection of awesome things regarding React ecosystem
+
+awesome-blockchain-articles:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份收集整理了一些关于区块链科普以及学习的文章集合 | ![GitHub stars](https://img.shields.io/github/stars/wecodexyz/awesome-blockchain-articles.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](h...
+
+awesome-ai-system-prompts:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Tập hợp các từ nhắc cho nhiều hệ thống công cụ AI, bao gồm các từ nhắc cho các công cụ như Bolt.new, ChatGPT, Claude, v.v. Nó cung cấp các tệp rõ ràng để dễ dàng sao chép, sử dụng, tìm kiếm và học ...
+
+Awesome-Open-Vocabulary-Perception:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một bộ sưu tập tài nguyên toàn diện tập trung vào lĩnh vực nhận thức từ vựng mở, bao gồm các tài nguyên mã và tài nguyên mã liên quan đến 2D và 3D, cung cấp cho các nhà nghiên cứu một chỉ mục tập t...
+
+awesome-public-datasets:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: Một bộ sưu tập dữ liệu công cộng chất lượng cao từ khắp nơi trên thế giới, bao gồm các tập dữ liệu trong hàng chục lĩnh vực như nông nghiệp và sinh học, được đánh dấu bằng các liên kết siêu dữ liệu...
+
+awesome-ai-memory:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Cái nhìn toàn cảnh về các công cụ trong trường bộ nhớ AI, phân chia các công cụ theo nguồn mở và nguồn đóng, so sánh sơ đồ, kiến ​​trúc lưu trữ vectơ và kết hợp, chia nhỏ các thành phần bộ nhớ, khu...
+
+comments-for-awesome-courses:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 名校公开课程评价网，由多个 GitHub 开发者共同参与维护的一个开源项目，主要针对各大高校计算机课程在学习难度、课程规划、进阶资源等方面，做出整理与总结。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/Ko3mBoO6q)
+
+awesome-technical-writing:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Một tập hợp các tài nguyên viết kỹ thuật được tổ chức một cách có hệ thống các công cụ, hướng dẫn và lộ trình phát triển nghề nghiệp liên quan đến viết kỹ thuật. Nó bao gồm các hướng dẫn về phong c...
+
+Awesome-LLM-Post-training:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Thư viện tài nguyên về việc nâng cao khả năng suy luận của các mô hình ngôn ngữ lớn, thu thập các phương pháp, bài viết, triển khai mã và điểm chuẩn sau đào tạo để giúp các nhà nghiên cứu và nhà ph...
+
+awesome-python-login-model:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: 收集了各大网站模拟登录的爬虫脚本 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HkdZQiVXK)
+
+awesome-scalability:
+  Before: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+  After: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+awesome-system-design-resources:
+  Before: Learn System Design concepts and prepare for interviews using free resources.
+  After: Learn System Design concepts and prepare for interviews using free resources.
+
+awesome-indie:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 帮独立开发者赚钱的资源整理，收集了相关社区、播客、书籍等资源 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HhfzDr6wh)
+
+architect-awesome:
+  Before: Giải pháp hoàn hảo để trích xuất, phân tích và quản lý dữ liệu lớn một cách hiệu quả.
+  After: 收集的比较全的《后端架构师技术图谱》，内容包含数据结构、算法、操作系统、设计模式、运维、网络、中间件、数据库等多类 | ![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg) | [![](https://raw.githubusercontent.com///maste...
+
+awesome_audio_video_learning:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Dự án tài nguyên học tập mã nguồn mở được phát triển bằng âm thanh và video, cung cấp lộ trình học tập có hệ thống vào năm 2025, bao gồm hệ thống kiến ​​thức hoàn chỉnh từ cơ bản đến nâng cao, bao ...
+
+awesome-cheatsheets:
+  Before: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+  After: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+awesome-compose:
+  Before: Awesome Docker Compose samples
+  After: Awesome Docker Compose samples
+
+awesome-copilot:
+  Before: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+  After: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+
+awesome-artificial-intelligence:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập tài nguyên được thu thập cẩn thận trong lĩnh vực trí tuệ nhân tạo, bao gồm các kiến ​​thức cơ bản như học máy, học sâu và xử lý ngôn ngữ tự nhiên cũng như các công cụ ứng dụng, hướng...
+
+Awesome_GPT_Super_Prompting:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: 一份在 GitHub 上整理的 ChatGPT 超级提示词集合，收集了 ChatGPT 越狱提示词、GPT 智能体提示词、提示词注入及保护、各种 GPTs 提示词以及 Prompt Engineering 学习资料等相关资源，内容全面且持续更新。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](...
+
+awesome-courses:
+  Before: :books: List of awesome university courses for learning Computer Science!
+  After: :books: List of awesome university courses for learning Computer Science!
+
+Awesome-Love-Code:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份收集了 50 多份表白代码的代码库，为程序员提供浪漫的表白方式。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/O1F0sg2sE)
+
+Awesome-independent-tools:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Bộ sưu tập các công cụ ở nước ngoài dành cho các nhà phát triển độc lập, bao gồm các khung phát triển front-end và back-end, phát triển plug-in Chrome, thiết kế nguyên mẫu, tích hợp thanh toán và c...
+
+Learn to Code RPG:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一款交互式视觉小说游戏，可以让你边玩游戏、边学编程。项目里面拥有 600 多道计算机科学相关的测试题，你可以通过探索游戏菜单和解题的方式，来提升编程技巧。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/L7PGwl3uf)
+
+awesome-ai-efficiency:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một tập hợp các tài nguyên tối ưu hóa hiệu quả AI, thu thập và sắp xếp các thư viện công cụ, tài liệu nghiên cứu, trường hợp thực tế và dữ liệu tác động môi trường, bao gồm 13 lĩnh vực cốt lõi như ...
+
+Awesome-Mobile-Machine-Learning:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 移动端上的机器学习资源整理 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/HqLnd9dIF)
+
+awesome-education:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 在GitHub收集了学生可以优惠的软件，学生党福利-收集支持教育优惠的软件与服务 | ![GitHub stars](https://img.shields.io/github/stars/wowlusitong/awesome-education.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo....
+
+awesome-algorithm:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份 Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现 | ![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](...
+
+freecodecamp.cn:
+  Before: FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+  After: FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+
+Awesome-Self-Evolving-Agents:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Sắp xếp một cách có hệ thống công nghệ tự phát triển của Tác nhân, cung cấp lộ trình phát triển và cây kiến ​​thức có độ phân giải cao, bao gồm tối ưu hóa hành vi của một tác nhân, cộng tác đa tác ...
+
+awesome-react-components:
+  Before: Curated List of React Components & Libraries.
+  After: Curated List of React Components & Libraries.
+
+awesome-cto:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份专为首席技术官（CTO ）设计的资源清单，含有 CTO 角色介绍、招聘技巧、团队管理、职业发展、项目管理实践、开发流程、初创公司指南、产品开发、市场营销等等内容。 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/NzmZDfDhj)
+
+awesome-ai-for-science:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Bộ sưu tập GitHub tổ chức một cách có hệ thống các tài nguyên nghiên cứu khoa học được hỗ trợ bởi AI, bao gồm hơn mười danh mục và các công cụ đặc biệt đa ngành như quản lý tài liệu, phân tích dữ l...
+
+awesome-llm-apps:
+  Before: Một công cụ AI thông minh và mạnh mẽ giúp tự động hóa các tác vụ phức tạp. Hỗ trợ đa mô hình và tích hợp dễ dàng.
+  After: Một bộ sưu tập được biên soạn cẩn thận gồm các ứng dụng thực tế của mô hình ngôn ngữ lớn trong các lĩnh vực khác nhau, bao gồm các tình huống như dịch vụ khách hàng, luật, y tế, du lịch, phân tích ...
+
+Awesome-RAG:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Bộ sưu tập tài nguyên học tập RAG trên GitHub, nơi tổ chức nghiên cứu mới nhất từ ​​​​năm 2024 đến năm 2025 theo dòng thời gian và các hạng mục hội nghị hàng đầu, bao gồm các bài viết từ các hội ng...
+
+Awesome_APIs:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: 一份为开发者收集整理各类型非常好的平台、社区 API 资料 | ![GitHub stars](https://img.shields.io/github/stars/TonnyL/Awesome_APIs.svg) | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.c...
+
+awesome-ml-courses:
+  Before: Một dự án mã nguồn mở tiện ích, được sử dụng phổ biến bởi cộng đồng lập trình viên trên toàn thế giới.
+  After: 一份 AI 相关的学习资源汇总清单，里面收纳了斯坦福、加州伯克利、哥伦比亚、华盛顿大学等多个高校的免费开放课程 | [![](https://raw.githubusercontent.com///master/assets/sina_logo.png)](https://weibo.com/5722964389/J1qQGrY0n)
+
+awesome-go:
+  Before: A curated list of awesome Go frameworks, libraries and software
+  After: A curated list of awesome Go frameworks, libraries and software
+
+awesome-useful-websites:
+  Before: Một công cụ phát triển phần mềm mã nguồn mở tuyệt vời giúp tăng cường hiệu suất lập trình và quản lý dự án.
+  After: Tuyển chọn các tài nguyên website siêu thực tế trên GitHub, sắp xếp cẩn thận hàng nghìn website chất lượng cao, được phân thành hàng chục danh mục như công cụ, học tập, giải trí, phát triển, v.v. M...

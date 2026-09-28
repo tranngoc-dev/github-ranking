@@ -1,54 +1,8 @@
 [
-  {
-    "id": "top-1000",
-    "name": "⭐ Top 1000 Nhiều Sao Nhất"
-  },
-  {
-    "id": "ai-tools",
-    "name": "Công cụ AI & Machine Learning"
-  },
-  {
-    "id": "dev-tools",
-    "name": "Công cụ Lập trình & DevTools"
-  },
-  {
-    "id": "utilities",
-    "name": "Tiện ích Thực tế & Ứng dụng"
-  },
-  {
-    "id": "collections",
-    "name": "Tài liệu Tổng hợp & Tuyển tập"
-  },
-  {
-    "id": "tutorials",
-    "name": "Giáo trình & Hướng dẫn Lập trình"
-  },
-  {
-    "id": "libraries-frameworks",
-    "name": "Ngôn ngữ Lập trình & Thư viện"
-  },
-  {
-    "id": "community-picks",
-    "name": "Dự án Cộng đồng Đề xuất"
-  },
-  {
-    "id": "media-tools",
-    "name": "Công cụ Đa phương tiện & Media"
-  },
-  {
-    "id": "plugins",
-    "name": "Plugin & Tiện ích Mở rộng"
-  },
-  {
-    "id": "content-creation",
-    "name": "Sáng tạo Nội dung & Xuất bản"
-  },
-  {
-    "id": "online-services",
-    "name": "Dịch vụ Trực tuyến & Web Apps"
-  },
-  {
-    "id": "other",
-    "name": "Dự án Khác"
-  }
+  { "id": "ai-ml", "name": "AI & Machine Learning" },
+  { "id": "dev-tools", "name": "Developer Tools & DevOps" },
+  { "id": "frameworks-libs", "name": "Frameworks & Libraries" },
+  { "id": "learning-guides", "name": "Learning & Roadmaps" },
+  { "id": "cloud-services", "name": "Web & Cloud Services" },
+  { "id": "apps-utilities", "name": "Utilities & Applications" }
 ]

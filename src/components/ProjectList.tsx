@@ -17,7 +17,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
   const [query, setQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [selectedYear, setSelectedYear] = useState<string>('all');
-  const [minStars, setMinStars] = useState<number>(0);
+  const [minStars, setMinStars] = useState<number>(10000);
   const [sortBy, setSortBy] = useState<'stars' | 'name'>('stars');
   
   const [currentPage, setCurrentPage] = useState(1);
@@ -42,9 +42,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
     }
 
     // Filter
-    if (selectedCategory === 'top-1000') {
-      result = result.filter(p => p.isTop1000 === true || p.categoryVi === 'top-1000');
-    } else if (selectedCategory !== 'all') {
+    if (selectedCategory !== 'all') {
       result = result.filter(p => p.categoryVi === selectedCategory);
     }
     if (selectedYear !== 'all') {
@@ -129,13 +127,11 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
                   setCurrentPage(1);
                 }}
               >
-                <option value="0">Tối thiểu: 0 ⭐</option>
-                <option value="500">&gt; 500 ⭐</option>
-                <option value="1000">&gt; 1.000 ⭐</option>
-                <option value="5000">&gt; 5.000 ⭐</option>
-                <option value="10000">&gt; 10.000 ⭐</option>
+                <option value="10000">Tối thiểu: 10.000 ⭐</option>
                 <option value="20000">&gt; 20.000 ⭐</option>
                 <option value="50000">&gt; 50.000 ⭐</option>
+                <option value="100000">&gt; 100.000 ⭐</option>
+                <option value="200000">&gt; 200.000 ⭐</option>
               </select>
             </div>
 
@@ -243,7 +239,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
               setQuery('');
               setSelectedCategory('all');
               setSelectedYear('all');
-              setMinStars(0);
+              setMinStars(10000);
             }}
             className="mt-6 font-medium text-primary hover:underline"
           >

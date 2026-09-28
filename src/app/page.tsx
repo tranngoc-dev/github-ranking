@@ -36,7 +36,7 @@ export default async function Home() {
           Khám phá <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">GitHub Ranking</span>
         </h1>
         <p className="max-w-2xl text-lg text-slate-600">
-          Tuyển tập hơn 3.800+ dự án mã nguồn mở chất lượng cao, phân loại và chọn lọc bằng tiếng Việt.
+          Top 5.500+ dự án mã nguồn mở nhiều sao nhất thế giới (&gt;= 10.000 ⭐) cập nhật trực tiếp từ GitHub.
         </p>
         
         <div className="flex flex-wrap justify-center gap-4 mt-6">
