@@ -18,7 +18,7 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [selectedYear, setSelectedYear] = useState<string>('all');
   const [minStars, setMinStars] = useState<number>(10000);
-  const [sortBy, setSortBy] = useState<'stars' | 'name'>('stars');
+  const [sortBy, setSortBy] = useState<'stars-desc' | 'stars-asc' | 'name'>('stars-desc');
   
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
@@ -54,8 +54,10 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
 
     // Sort
     result = [...result].sort((a, b) => {
-      if (sortBy === 'stars') {
+      if (sortBy === 'stars-desc') {
         return b.stars - a.stars;
+      } else if (sortBy === 'stars-asc') {
+        return a.stars - b.stars;
       } else {
         return a.name.localeCompare(b.name);
       }
@@ -140,9 +142,10 @@ export default function ProjectList({ initialProjects, categories }: ProjectList
               <select 
                 className="bg-transparent text-sm outline-none cursor-pointer"
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as 'stars' | 'name')}
+                onChange={(e) => setSortBy(e.target.value as 'stars-desc' | 'stars-asc' | 'name')}
               >
-                <option value="stars">Nhiều Stars nhất</option>
+                <option value="stars-desc">Nhiều Stars nhất (Giảm dần)</option>
+                <option value="stars-asc">Ít Stars nhất (Tăng dần)</option>
                 <option value="name">Tên A-Z</option>
               </select>
             </div>
